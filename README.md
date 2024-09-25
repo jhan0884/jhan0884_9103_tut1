@@ -7,6 +7,7 @@ The art technique of "picture in picture" is an important inspiration for my ass
 ![Image of ZoomIn2](assets/zoomin2.jpg)
 ![Image of ZoomIn3](assets/zoomin3.jpg)
 ![Image of ZoomIn4](assets/zoomin4.jpg)
+[Link of Art](http://xhslink.com/a/TcO4UvYMDZuW)
 
 #### Part2
 This reminds me of the Orbit Control technology in p5.js to zoom and rotate the Angle of view through interactive actions such as mouse scrolling, allowing users to view different parts of the screen in a dynamic manner. This technology makes the display of the picture more flexible, and users can freely adjust the Angle of view, so that they can feel the details of the scene more intuitively. Through natural interactions, Orbit Control provides an easy and effective way for users to acquire new visual experiences during exploration, enhancing interactions.
